@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>FullScreen</key>
+        <true/>
+        <key>아이폰 스크린타임 뚫는법 2025</key>
+        <string>myapp</string>
+        <key>https://isctbreak.univer.se/home</key>
+        <string>https://isctbreak.univer.se/home</string>
+        <key>PayloadIdentifier</key>
+        <string>com.isctbreak.univer.se/home.isctbreak2025</string>
+        <key>PayloadType</key>
+        <string>com.apple.webClip.managed</string>
+        <key>PayloadUUID</key>
+        <string>12345678-1234-1234-1234-123456789abc</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+      </dict>
+    </array>
+    <key>isctbreak app</key>
+    <string>Download</string>
+    <key>PayloadIdentifier</key>
+    <string>com.isctbreak.univer.se/home.isctbreak2025</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>abcdefab-cdef-abcd-efab-cdefabcdefab</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+  </dict>
+</plist>
